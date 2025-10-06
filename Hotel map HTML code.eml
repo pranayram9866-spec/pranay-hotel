@@ -1,0 +1,127 @@
+MIME-Version: 1.0
+Date: Mon, 6 Oct 2025 21:29:12 +0400
+From: Pranay Ram <pranayram9866@gmail.com>
+Subject: Hotel map HTML code
+Thread-Topic: Hotel map HTML code
+Message-ID:
+ <CACPsKk9RH_Lw9tPG0N=CzOBvQs8uuQS7_YSAqhFc4b_tR=ANCQ@mail.gmail.com>
+To: "rampranay016@gmail.com" <rampranay016@gmail.com>
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<div>
+<div>
+<p>DOCTYPE html&gt;</p>
+<p>&lt;html lang=3D&quot;en&quot;&gt;</p>
+<p>&lt;head&gt;</p>
+<p>&nbsp; &lt;meta charset=3D&quot;UTF-8&quot;&gt;</p>
+<p>&nbsp; &lt;meta name=3D&quot;viewport&quot; content=3D&quot;width=3Ddevi=
+ce-width, initial-scale=3D1&quot;&gt;</p>
+<p>&nbsp; &lt;title&gt;Hotel Guest Services&lt;/title&gt;</p>
+<p>&nbsp; &lt;style&gt;</p>
+<p>&nbsp; &nbsp; body {</p>
+<p>&nbsp; &nbsp; &nbsp; font-family: Arial, sans-serif;</p>
+<p>&nbsp; &nbsp; &nbsp; background: #f4f4f4;</p>
+<p>&nbsp; &nbsp; &nbsp; margin: 0;</p>
+<p>&nbsp; &nbsp; &nbsp; padding: 20px;</p>
+<p>&nbsp; &nbsp; &nbsp; color: #333;</p>
+<p>&nbsp; &nbsp; }</p>
+<p>&nbsp; &nbsp; .container {</p>
+<p>&nbsp; &nbsp; &nbsp; max-width: 600px;</p>
+<p>&nbsp; &nbsp; &nbsp; margin: auto;</p>
+<p>&nbsp; &nbsp; &nbsp; background: white;</p>
+<p>&nbsp; &nbsp; &nbsp; padding: 20px;</p>
+<p>&nbsp; &nbsp; &nbsp; border-radius: 10px;</p>
+<p>&nbsp; &nbsp; }</p>
+<p>&nbsp; &nbsp; h1, h2 {</p>
+<p>&nbsp; &nbsp; &nbsp; color: #005f73;</p>
+<p>&nbsp; &nbsp; }</p>
+<p>&nbsp; &nbsp; ul {</p>
+<p>&nbsp; &nbsp; &nbsp; list-style: none;</p>
+<p>&nbsp; &nbsp; &nbsp; padding: 0;</p>
+<p>&nbsp; &nbsp; }</p>
+<p>&nbsp; &nbsp; li {</p>
+<p>&nbsp; &nbsp; &nbsp; margin-bottom: 15px;</p>
+<p>&nbsp; &nbsp; &nbsp; padding-left: 20px;</p>
+<p>&nbsp; &nbsp; &nbsp; position: relative;</p>
+<p>&nbsp; &nbsp; }</p>
+<p>&nbsp; &nbsp; li::before {</p>
+<p>&nbsp; &nbsp; &nbsp; content: &quot;=E2=80=A2&quot;;</p>
+<p>&nbsp; &nbsp; &nbsp; position: absolute;</p>
+<p>&nbsp; &nbsp; &nbsp; left: 0;</p>
+<p>&nbsp; &nbsp; &nbsp; color: #0a9396;</p>
+<p>&nbsp; &nbsp; }</p>
+<p>&nbsp; &nbsp; .section {</p>
+<p>&nbsp; &nbsp; &nbsp; margin-bottom: 30px;</p>
+<p>&nbsp; &nbsp; }</p>
+<p>&nbsp; &lt;/style&gt;</p>
+<p>&lt;/head&gt;</p>
+<p>&lt;body&gt;</p>
+<p>&nbsp; &lt;div class=3D&quot;container&quot;&gt;</p>
+<p>&nbsp; &nbsp; &lt;h1&gt;=F0=9F=8F=A8 Welcome to [Hotel Name]&lt;/h1&gt;<=
+/p>
+<p>&nbsp; &nbsp; &lt;p&gt;Your digital concierge is here. Access everything=
+ you need during your stay.&lt;/p&gt;</p>
+<p><br></p>
+<p>&nbsp; &nbsp; &lt;div class=3D&quot;section&quot;&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;h2&gt;=F0=9F=93=8D Hotel Map &amp; Navigation&l=
+t;/h2&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;ul&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &lt;li&gt;Find outlets, rooms, and washrooms=
+&lt;/li&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &lt;li&gt;Interactive map for easy navigatio=
+n&lt;/li&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;/ul&gt;</p>
+<p>&nbsp; &nbsp; &lt;/div&gt;</p>
+<p><br></p>
+<p>&nbsp; &nbsp; &lt;div class=3D&quot;section&quot;&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;h2&gt;=F0=9F=8D=BD=EF=B8=8F Dining &amp; Reserv=
+ations&lt;/h2&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;ul&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &lt;li&gt;View today=E2=80=99s menu (updated=
+ daily)&lt;/li&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &lt;li&gt;Book a table or chat with our host=
+ess&lt;/li&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;/ul&gt;</p>
+<p>&nbsp; &nbsp; &lt;/div&gt;</p>
+<p><br></p>
+<p>&nbsp; &nbsp; &lt;div class=3D&quot;section&quot;&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;h2&gt;=F0=9F=A7=BA Room Services &amp; Requests=
+&lt;/h2&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;ul&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &lt;li&gt;Request towels, water, or cleaning=
+&lt;/li&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &lt;li&gt;Schedule early breakfast&lt;/li&gt=
+;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &lt;li&gt;Make special reservations&lt;/li&g=
+t;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;/ul&gt;</p>
+<p>&nbsp; &nbsp; &lt;/div&gt;</p>
+<p><br></p>
+<p>&nbsp; &nbsp; &lt;div class=3D&quot;section&quot;&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;h2&gt;=F0=9F=92=AC Chat with Hotel Staff&lt;/h2=
+&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;ul&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &lt;li&gt;Message our front desk (D.P.)&lt;/=
+li&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &lt;li&gt;Contact housekeeping&lt;/li&gt;</p=
+>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &lt;li&gt;Ask questions or connect with othe=
+r guests&lt;/li&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;/ul&gt;</p>
+<p>&nbsp; &nbsp; &lt;/div&gt;</p>
+<p><br></p>
+<p>&nbsp; &nbsp; &lt;div class=3D&quot;section&quot;&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;h2&gt;=F0=9F=9A=AA Smart Room Access&lt;/h2&gt;=
+</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;ul&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &lt;li&gt;Unlock your room securely via mobi=
+le (if supported)&lt;/li&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &lt;/ul&gt;</p>
+<p>&nbsp; &nbsp; &lt;/div&gt;</p>
+<p>&nbsp; &lt;/div&gt;</p>
+<p>&lt;/body&gt;</p>
+<p>&lt;/html&gt;</p>
+<ul><li><br></li></ul>
+</div>
+</div><div><div dir=3D"ltr"></div></div>
